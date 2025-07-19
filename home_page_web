@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mechanical Engineer Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Hi, I'm Parth Patil</h1>
+    <p>A passionate Mechanical Engineering student</p>
+    <nav>
+      <a href="about.html">About Me</a>
+      <a href="projects.html">Projects</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>What I Do</h2>
+      <p>
+        I'm currently pursuing my Bachelor's in Mechanical Engineering. I love working on design, manufacturing, thermal systems, and automation. 
+        I use tools like SolidWorks, AutoCAD, ANSYS, CATIA and also enjoy coding in Python and MATLAB.
+      </p>
+    </section>
+
+    <section>
+      <h2>Skills</h2>
+      <ul>
+        <li>CAD Design (SolidWorks, AutoCAD, CATIA)</li>
+        <li>FEA & Simulation (ANSYS, Fusion 360)</li>
+        <li>Programming (Python, MATLAB)</li>
+        <li>Project Management & Technical Documentation</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Latest Project</h2>
+      <p>
+        <strong>EV Go-Kart and TIFAN 25 Event Participation</strong><br />
+        As a core team member of the college EV Go-Kart and TIFAN 25 teams, I contributed significantly to the design, manufacturing, and electronics subsystems. 
+        My responsibilities included wiring and testing electrical systems, supporting mechanical fabrication, and assisting in CAD-based component design and integration.
+      </p>
+      <a href="projects.html">View More Projects →</a>
+    </section>
+
+    <section>
+      <h2>Let's Connect</h2>
+      <p>You can reach out to me on <a href="https://www.linkedin.com" target="_blank">LinkedIn</a> or check my <a href="resume.pdf" target="_blank">resume</a>.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Parth Patil | Mechanical Engineering Portfolio</p>
+  </footer>
+</body>
+</html>
